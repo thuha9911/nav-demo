@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    padding: 10px;
+    background-color: brown;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul a {
+    color: floralwhite;
+    text-transform: uppercase;
+    margin-right: 10px;
+    padding-left: 20px;
+    text-decoration: none;
+}
